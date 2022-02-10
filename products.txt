@@ -1,0 +1,12 @@
+Food American_Litter 14.500000 5
+Food Puppy_Food 10.500000 5
+Food Cat_Litter 8.500000 5
+Food Whiskas_Tasty 9.000000 5
+Accessory Dog_Collar 4.000000 5
+Accessory Leash 1.000000 5
+Toy Tug_Rope_Ball 5.000000 5
+Toy Training_Tug 4.000000 5
+Toy Ball 1.000000 5
+Toy Chew_kong 2.000000 5
+Book Pet_Show Ezra_Jack 12.000000 5
+Book Dog_Tricks Kyra_Sundance 10.000000 5
